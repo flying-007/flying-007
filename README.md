@@ -1,6 +1,29 @@
 <h1 align="center">Hi 👋, I'm Paarth Singh</h1>
 <h3 align="center">🚀 Building, Breaking, Learning, Repeating</h3>
 
+🎓 Electronics & Communication Engineering Student
+
+💻 Interested in:
+- Artificial Intelligence
+- Quantitative Finance
+- Full-Stack Development
+- Machine Learning
+
+## Featured Projects
+
+🤖 PrepAI
+AI-powered interview preparation platform built with FastAPI, React, and Groq LLM.
+
+📊 Bayer CropScience Financial Analysis
+Comprehensive financial statement and valuation analysis.
+
+🎌 Anime Recommendation System
+Python-based recommendation engine using the Jikan API.
+
+## Tech Stack
+
+Python • C++ • FastAPI • React • SQL • Git • REST APIs
+
 - 📫 How to reach me **contact.paarthsingh@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
