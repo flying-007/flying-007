@@ -9,20 +9,9 @@
 - Full-Stack Development
 - Machine Learning
 
-## Featured Projects
-
-🤖 PrepAI
-AI-powered interview preparation platform built with FastAPI, React, and Groq LLM.
-
-📊 Bayer CropScience Financial Analysis
-Comprehensive financial statement and valuation analysis.
-
-🎌 Anime Recommendation System
-Python-based recommendation engine using the Jikan API.
-
 ## Tech Stack
 
-Python • C++ • FastAPI • React • SQL • Git • REST APIs
+Python • C++ • C • Java • FastAPI • React • SQL • Git • REST APIs
 
 - 📫 How to reach me **contact.paarthsingh@gmail.com**
 
