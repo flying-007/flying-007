@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Paarth Singh</h1>
 <h3 align="center">🚀 Building, Breaking, Learning, Repeating</h3>
 
-🎓 Electronics & Communication Engineering Student
+🎓 Electronics & Communication Engineering Student at BITS Pilani, Hyderabad
 
 💻 Interested in:
 - Artificial Intelligence
