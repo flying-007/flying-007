@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Paarth Singh</h1>
-<h3 align="center">🚀 Building, Breaking, Learning, Repeating</h3>
+<h1 align="center">Hi , I'm Paarth Singh</h1>
+<h3 align="center"> Building, Breaking, Learning, Repeating</h3>
 
-🎓 Electronics & Communication Engineering Student at BITS Pilani, Hyderabad
+ Electronics & Communication Engineering Student at BITS Pilani, Hyderabad
 
-💻 Interested in:
+ Interested in:
 - Artificial Intelligence
 - Quantitative Finance
 - Full-Stack Development
@@ -13,7 +13,7 @@
 
 Python • C++ • C • Java • FastAPI • React • SQL • Git • REST APIs
 
-- 📫 How to reach me **contact.paarthsingh@gmail.com**
+-  How to reach me **contact.paarthsingh@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
